@@ -9,7 +9,7 @@ print('Checking for required modules...')
 for r in rqts:
     if iutil.find_spec(r) is None:
         print('Installing ' + r + '.')
-        os.system('! pip install ' + r)
+        os.system('pip install ' + r)
     else:
         print(r + ' is installed.')
 
