@@ -70,3 +70,5 @@ print('Script completed in ', round(master_end-master_start,4), ' seconds.')
 # https://www.allabtai.com/how-to-summarize-a-large-text-with-gpt-3/
 # https://www.allabtai.com/how-to-create-multiple-types-of-content-from-youtube-video-with-gpt-3-and-python/
 #Maybe you can connect with a programmer? 
+
+# https://www.se.com/us/en/download/document/7EN02-0440/
